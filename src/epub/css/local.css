@@ -96,11 +96,6 @@ section[epub|type~="z3998:scene"] > p{
 	width: 75%;
 }
 
-p span.i1{
-	text-indent: -1em;
-	padding-left: 2em;
-}
-
-.signature{
+#signature{
 	font-variant: small-caps;
 }
