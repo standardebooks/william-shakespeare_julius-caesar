@@ -96,6 +96,6 @@ section[epub|type~="z3998:scene"] > p{
 	width: 75%;
 }
 
-#signature{
+[epub|type~="z3998:signature"]{
 	font-variant: small-caps;
 }
