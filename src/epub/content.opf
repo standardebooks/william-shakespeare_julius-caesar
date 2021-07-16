@@ -49,6 +49,8 @@
 		<meta property="authority" refines="#subject-6">LCSH</meta>
 		<meta property="term" refines="#subject-6">Unknown</meta>
 		<meta property="se:subject">Drama</meta>
+		<meta id="collection-1" property="belongs-to-collection">Encyclopædia Britannica’s Great Books of the Western World</meta>
+		<meta property="collection-type" refines="#collection-1">set</meta>
 		<dc:description id="description">A play portraying the assassination of Julius Caesar.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;After defeating enemies in battle, Roman citizens celebrate in the streets as Julius Caesar and his entourage make their way through the city. As Caesar passes a soothsayer, he receives an ominous warning: “Beware the ides of March,” which he immediately disregards. Meanwhile, some of his closest followers are convinced their leader has become too powerful and plot his removal. Plutarch’s &lt;i&gt;Lives of the Noble Grecians and Romans&lt;/i&gt; was &lt;a href="https://standardebooks.org/ebooks/william-shakespeare"&gt;Shakespeare’s&lt;/a&gt; primary source for &lt;i&gt;Julius Caesar&lt;/i&gt;.&lt;/p&gt;
